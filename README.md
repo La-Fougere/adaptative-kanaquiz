@@ -1,5 +1,6 @@
 # Kana Quiz
-Kana Quiz made with React.js.
+(under development)
+Kana Quiz but you have to face your mistakes
 
 See live at https://kana.pro/
 
